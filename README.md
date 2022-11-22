@@ -1,6 +1,6 @@
-# trybe-projetos
+# Trybe - Projetos
 Repositório contendo todos os projetos realizados ao longo dos meus estudos como Desenvolvedor Web na Trybe.
-Este repositório contém todos os projetos desenvolvidos por [Eduardo Casati]() durante a [Formação em Desenvolvimento Web](https://www.betrybe.com/formacao-desenvolvimento-web) na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos desenvolvidos por [Eduardo Casati](#) durante a [Formação em Desenvolvimento Web](https://www.betrybe.com/formacao-desenvolvimento-web) na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -9,5 +9,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Bloco 1 - Fundamentos do Desenvolvimento Web
 
 #### Projeto 1
-- [X] [Lessons Learned]()
+[Lessons Learned]()
     - Seção 3: Introdução à HTML & CSS
