@@ -8,5 +8,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Bloco 1 - Fundamentos do Desenvolvimento Web
 
 #### Projeto 1
-[Lessons Learned]()
+[Lessons Learned](#)
     - Seção 3: Introdução à HTML & CSS
