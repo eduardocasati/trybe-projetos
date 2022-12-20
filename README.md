@@ -7,11 +7,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo 1 - Fundamentos do Desenvolvimento Web
 
-#### Projeto 1 - Seção 3: Introdução à HTML & CSS
-[Lessons Learned](https://eduardocasati.github.io/lessons-learned/)
+## Seção 3: Introdução à HTML & CSS
+- [x] Projeto [Lessons Learned](https://eduardocasati.github.io/lessons-learned/)
 
-#### Projeto 2 - Seção 4: Introdução à JavaScript
-[Playground Functions](https://github.com/eduardocasati/playground-functions)
+## Seção 4: Introdução à JavaScript
+- [x] Projeto [Playground Functions](https://github.com/eduardocasati/playground-functions)
 
-#### Projeto 3 - Seção 5: JavaScript: DOM, Eventos e Web Storage
-[Pixels Art](https://eduardocasati.github.io/pixels-art/)
+## Seção 5: JavaScript: DOM, Eventos e Web Storage
+- [x] Projeto [Pixels Art](https://eduardocasati.github.io/pixels-art/)
