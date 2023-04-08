@@ -3,7 +3,7 @@ Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduar
 
 ---
 
-### 🎨 [**Pixel Art**](https://eduardocasati.github.io/pixels-art/)
+### 🎨 [**Pixel Art**](https://eduardocasati.github.io/pixel-art/)
 > Data: 19/12/22
 
 Módulo 1: Fundamentos do Desenvolvimento Web
