@@ -12,7 +12,7 @@ Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduar
 <br>
 [📦 Repositório](https://github.com/eduardocasati/frontend-online-store)
 
-Módulo 2 - Front-end
+Módulo 2: Front-end
 <br>
 Seção 5: Metodologias Ágeis
 
@@ -27,7 +27,7 @@ Seção 5: Metodologias Ágeis
 <br>
 [📦 Repositório](https://github.com/eduardocasati/trybetunes)
 
-Módulo 2 - Front-end
+Módulo 2: Front-end
 <br>
 Seção 4: Ciclo de Vida de Componentes e React Router
 
