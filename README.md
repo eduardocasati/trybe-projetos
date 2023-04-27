@@ -3,7 +3,7 @@ Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduar
 
 ---
 
-### 🛍️ **FRONT-END ONLINE STORE**
+## 🛍️ **FRONT-END ONLINE STORE**
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 > Data: 28/03/23
@@ -18,7 +18,7 @@ Seção 5: Metodologias Ágeis
 
 ---
 
-### 🎧 **TRYBETUNES**
+## 🎧 **TRYBETUNES**
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 > Data: 19/03/23
