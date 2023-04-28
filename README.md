@@ -3,6 +3,21 @@ Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduar
 
 ---
 
+## 💰 TRYBE WALLET
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+
+> Data: 20/04/23
+
+[🌎 Live](https://trybewallet-ec.vercel.app/)
+<br>
+[📦 Repositório](https://github.com/eduardocasati/trybewallet)
+
+Módulo 2: Front-end
+<br>
+Seção 7: Gerenciamento de estado com Redux
+
+---
+
 ## 🛍️ **FRONT-END ONLINE STORE**
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
