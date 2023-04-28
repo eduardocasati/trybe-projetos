@@ -1,5 +1,5 @@
 # Trybe - Projetos
-Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduardo Casati](#) durante a [Formação em Desenvolvimento Web](https://www.betrybe.com/formacao-desenvolvimento-web) pela [Trybe](https://www.betrybe.com/) :rocket:
+Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduardo Casati](https://www.linkedin.com/in/eduardocasati/) durante a [Formação Intensiva Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) :rocket:
 
 ---
 
