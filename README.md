@@ -1,5 +1,8 @@
 # Trybe - Projetos
-Lista de projetos _publicados_ dentre todos os projetos desenvolvidos por [Eduardo Casati](https://www.linkedin.com/in/eduardocasati/) durante a [Formação Intensiva Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) :rocket:
+
+Durante a minha participação na [Formação Intensiva Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), completei um total de 39 projetos distribuídos ao longo de 5 módulos abrangentes, cada um focado em áreas distintas do desenvolvimento web: Fundamentos, Front-end, Back-end, Ciência da Computação e a Eletiva Python.
+
+A seguir, destaco alguns dos projetos que considero particularmente significativos em cada módulo, refletindo a minha jornada de aprendizado e aplicação prática dos conhecimentos adquiridos.
 
 ---
 
