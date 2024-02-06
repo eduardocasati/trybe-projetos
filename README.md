@@ -20,7 +20,7 @@ Seção 6: ORM e Autenticação
 ---
 
 ## 💰 TRYBE WALLET
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Redux Badge](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 > Data: 20/04/23
 
@@ -35,7 +35,7 @@ Seção 7: Gerenciamento de estado com Redux
 ---
 
 ## 🛍️ **FRONT-END ONLINE STORE**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 > Data: 28/03/23
 
@@ -50,7 +50,7 @@ Seção 5: Metodologias Ágeis
 ---
 
 ## 🎧 **TRYBETUNES**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 > Data: 19/03/23
 
@@ -65,7 +65,7 @@ Seção 4: Ciclo de Vida de Componentes e React Router
 ---
 
 ## 🎨 **PIXEL ART**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Data: 19/12/22
 
