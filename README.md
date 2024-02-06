@@ -6,6 +6,19 @@ A seguir, destaco alguns dos projetos que considero particularmente significativ
 
 ---
 
+## ✍️ API de Blogs
+![Node.js Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white) ![JSON Web Tokens Badge](https://img.shields.io/badge/json%20web%20tokens-black?style=for-the-badge&logo=json%20web%20tokens&logoColor=white) ![Sequelize Badge](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![Docker Badge](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+
+> Data: 09/08/23
+
+[📦 Repositório](https://github.com/eduardocasati/blogs-api)
+
+Módulo 3: Back-end
+<br>
+Seção 6: ORM e Autenticação
+
+---
+
 ## 💰 TRYBE WALLET
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
