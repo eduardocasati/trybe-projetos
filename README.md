@@ -6,7 +6,9 @@ A seguir, destaco alguns dos projetos que considero particularmente significativ
 
 ---
 
-## ⚽ TRYBE FUTEBOL CLUBE
+## BACK-END
+
+### ⚽ TRYBE FUTEBOL CLUBE
 
 ![TypeScript Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white) ![JSON Web Tokens Badge](https://img.shields.io/badge/json%20web%20tokens-black?style=for-the-badge&logo=json%20web%20tokens&logoColor=white) ![Sequelize Badge](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![Chai Badge](https://img.shields.io/badge/chai-A40802?style=for-the-badge&logo=chai&logoColor=white) ![Mocha Badge](https://img.shields.io/badge/mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white) ![Docker Badge](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 
