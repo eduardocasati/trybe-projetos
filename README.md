@@ -6,7 +6,7 @@ A seguir, destaco alguns dos projetos que considero particularmente significativ
 
 ---
 
-## BACK-END
+##  BACK-END
 
 ### ⚽ TRYBE FUTEBOL CLUBE
 
@@ -48,7 +48,9 @@ Seção 6: ORM e Autenticação
 
 ---
 
-## 💰 TRYBE WALLET
+## FRONT-END
+
+### 💰 TRYBE WALLET
 ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Redux Badge](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 > Data: 20/04/23
@@ -63,7 +65,7 @@ Seção 7: Gerenciamento de estado com Redux
 
 ---
 
-## 🛍️ **FRONT-END ONLINE STORE**
+### 🛍️ **FRONT-END ONLINE STORE**
 ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 > Data: 28/03/23
@@ -78,7 +80,7 @@ Seção 5: Metodologias Ágeis
 
 ---
 
-## 🎧 **TRYBETUNES**
+### 🎧 **TRYBETUNES**
 ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 > Data: 19/03/23
@@ -93,7 +95,9 @@ Seção 4: Ciclo de Vida de Componentes e React Router
 
 ---
 
-## 🎨 **PIXEL ART**
+## FUNDAMENTOS DO DESENVOLVIMENTO WEB
+
+### 🎨 **PIXEL ART**
 ![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Data: 19/12/22
