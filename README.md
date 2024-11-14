@@ -46,6 +46,8 @@ Módulo 3: Back-end
 <br>
 Seção 6: ORM e Autenticação
 
+---
+
 ## FRONT-END
 
 ### 💰 TRYBE WALLET
@@ -61,6 +63,8 @@ Módulo 2: Front-end
 <br>
 Seção 7: Gerenciamento de estado com Redux
 
+---
+
 ### 🛍️ **FRONT-END ONLINE STORE**
 ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
@@ -73,6 +77,8 @@ Seção 7: Gerenciamento de estado com Redux
 Módulo 2: Front-end
 <br>
 Seção 5: Metodologias Ágeis
+
+---
 
 ### 🎧 **TRYBETUNES**
 ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
